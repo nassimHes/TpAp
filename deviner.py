@@ -16,10 +16,3 @@ while guess != num :
 
 print("you win !!")
 print("you needed " , compt , "try to find te number")
-
-
-
-
-
-
-
